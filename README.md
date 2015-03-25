@@ -1,6 +1,11 @@
 DeerResume
 ==========
 
+应用“DeerResume”来自于Github项目[geekcompany/DeerResume](https://github.com/geekcompany/DeerResume)，你可以很方便的部署你的专属简历网站，并用MarkDown写出最具程序员风格的简历。
+
+下面为原项目介绍
+----------------
+
 ![img](http://www.jobdeer.com/img/rd.png)
 
 最好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF
